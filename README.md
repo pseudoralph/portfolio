@@ -14,7 +14,7 @@ This professional portfolio showcases the programs created in Epicodus, a coding
 * navigate to the downloaded repo
 * launch `index.html` in a browser of your choice
 
-Alternatively, this site can be viewed at[https://pseudoralph.github.io/portfolio/](https://pseudoralph.github.io/portfolio/)
+Alternatively, this site can be viewed at [https://pseudoralph.github.io/portfolio/](https://pseudoralph.github.io/portfolio/)
 
 ## Technologies Used
 
