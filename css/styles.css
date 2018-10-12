@@ -13,7 +13,7 @@ footer {
   max-width: 350px;
 }
 
-.navbar {
+.navbuttons {
   /* display: inline-block; */
   text-align: center;
 }
@@ -35,4 +35,19 @@ h1.intro {
 
 span.intro {
   font-weight: 300;
+}
+
+.heading {
+
+}
+
+.heading h1 {
+  font-weight: 300;
+
+}
+
+.heading img {
+  max-width: 80px;
+  border-radius: 20px;
+
 }
