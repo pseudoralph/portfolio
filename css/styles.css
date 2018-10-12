@@ -24,6 +24,11 @@ footer {
     margin-right: auto;
 }
 
+.home {
+  margin-top: 60px;
+
+}
+
 h1.intro {
   text-align: center;
 }
@@ -37,19 +42,30 @@ span.intro {
   background-color: #F8F8F8;
 }
 
-.heading h1 {
-  font-weight: 300;
+.heading .icon {
+  float: left;
 }
 
 .heading img {
   max-width: 72px;
   border-radius: 20px;
+  margin-right: 10px;
 }
 
 .heading .breadcrumb {
   background-color: inherit;
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 300;
+  line-height: 1.7em;
   margin-bottom: inherit;
   padding-left: 0;
+}
+
+.content {
+
+}
+
+
+.cleafix {
+  clear: both;
 }
