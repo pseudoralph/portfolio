@@ -37,6 +37,11 @@ span.intro {
   font-weight: 300;
 }
 
+.navbuttons {
+  margin-top: 60px;
+  width: 400px;
+}
+
 .heading {
   padding: 5px;
   background-color: #F8F8F8;
@@ -68,4 +73,29 @@ span.intro {
 
 .cleafix {
   clear: both;
+}
+
+@media screen and (max-width:480px) {
+
+  .profile {
+    max-width: 300px;
+  }
+
+  .navbuttons {
+    margin-top: 40px;
+    width: 300px;
+  }
+
+
+  h1.intro {
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  span.intro {
+    font-size: 28px;
+    font-weight: 100;
+  }
+
 }
