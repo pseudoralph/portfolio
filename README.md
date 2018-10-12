@@ -1,6 +1,6 @@
 # Ralph's portfolio
 
-#### Portfolio website showcasing proficiency in HTML, CSS, and use of Bootstrap framework, October 12, 2018
+#### Portfolio website showcasing proficiency in HTML, CSS, and use of frameworks (Bootstrap), October 12, 2018
 
 #### By Ralph Perdomo
 
@@ -14,17 +14,17 @@ This professional portfolio showcases the programs created in Epicodus, a coding
 * navigate to the downloaded repo
 * launch `index.html` in a browser of your choice
 
-Alternatively, this site can also be viewed at [https://pseudoralph.gihub.io/portfolio](https://pseudoralph.gihub.io/portfolio)
+Alternatively, this site can be viewed at [https://pseudoralph.gihub.io/portfolio](https://pseudoralph.gihub.io/portfolio)
 
 ## Technologies Used
 
-HTML,CSS, Bootstrap: CSS and JS (requires jQuery)
+HTML, CSS (Bootstrap framework)
 
 ## Project objectives
 
 - [ ] The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
 
-- [ ] Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
+- [x] Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
 
 - [ ] Commits are made regularly with clear messages that finish the phrase "It will…"
 
@@ -36,7 +36,7 @@ HTML,CSS, Bootstrap: CSS and JS (requires jQuery)
 
 - [ ] Required content was in place by the Friday deadline.
 
-- [ ] Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
+- [x] Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
 
 - [ ] Bootstrap classes are used to style the page. his means explicitly using classes mentioned on this page, not just linking the Bootstrap stylesheet.
 
