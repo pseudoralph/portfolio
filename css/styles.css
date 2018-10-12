@@ -58,6 +58,10 @@ span.intro {
   margin-right: 10px;
 }
 
+.heading a {
+  color: #49AEDC;
+}
+
 .heading .breadcrumb {
   background-color: inherit;
   font-size: 32px;
@@ -69,6 +73,11 @@ span.intro {
 
 .cleafix {
   clear: both;
+}
+
+.container {
+  margin-bottom: 70px;
+
 }
 
 .content {
