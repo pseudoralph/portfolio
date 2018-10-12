@@ -1,0 +1,13 @@
+.profile {
+  max-width: 350px;
+}
+
+.navbar {
+  /* display: inline-block; */
+  text-align: center;
+}
+
+.social {
+  margin: 0 auto;
+  width: 200px;
+}
