@@ -80,7 +80,6 @@ span.intro {
   display: block;
   padding: 4px;
   margin-bottom: 20px;
-  /* line-height: 2; */
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -97,8 +96,16 @@ span.intro {
 }
 
 .card p, .card ul {
-  font-weight: 200;
+  list-style-type: circle;
+  font-weight: 300;
+}
 
+.card li:last-child {
+  margin-bottom: 30px;
+}
+
+.card a {
+  text-align: center;
 }
 
 @media screen and (max-width:480px) {
