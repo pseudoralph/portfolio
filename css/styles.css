@@ -13,20 +13,15 @@ footer {
   max-width: 350px;
 }
 
-.navbuttons {
-  /* display: inline-block; */
-  text-align: center;
-}
-
 .social img {
   margin: 0 15px 0 0;
 }
 
 .center {
+    text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* width: 50%; */
 }
 
 h1.intro {
@@ -38,16 +33,23 @@ span.intro {
 }
 
 .heading {
-
+  padding: 5px;
+  background-color: #F8F8F8;
 }
 
 .heading h1 {
   font-weight: 300;
-
 }
 
 .heading img {
-  max-width: 80px;
+  max-width: 72px;
   border-radius: 20px;
+}
 
+.heading .breadcrumb {
+  background-color: inherit;
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: inherit;
+  padding-left: 0;
 }
